@@ -8,6 +8,7 @@ body {
 }
 div { 
     max-width: 400px;
+    min-width: auto;
     background-color: lightgray;
     width: auto;
     margin: 15px auto;
@@ -16,9 +17,7 @@ div {
 }
 .biografia {
     margin: auto
-    height: 350px;
-    text-align: justify;
-}
+    }
 .foto {
     background-color: lightcoral;
     width: 100px;
