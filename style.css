@@ -42,5 +42,5 @@ td {
     border: 2px solid black;
 }
 .table{
-    min-width: auto;
+    min-width: 400px;
 }
