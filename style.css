@@ -1,0 +1,43 @@
+h1 {
+    color: red;
+}
+
+body {
+    background-color: grey;
+    padding: 10px;
+}
+div { 
+    max-width: 400px;
+    background-color: lightgray;
+    width: auto;
+    margin: 15px auto;
+    padding: 10px;
+    text-align: center
+}
+.biografia {
+    margin: auto
+    height: 350px;
+    text-align: justify;
+}
+.foto {
+    background-color: lightcoral;
+    width: 100px;
+    height: 100px;
+}
+img{
+    border-radius: 50%;
+}
+thead {
+    text-transform: uppercase;
+    border-bottom: 2px solid black;
+    text-align: left;
+}
+tbody {
+    background-color: brown;
+}
+td:hover {
+    background-color: blue;
+}
+td {
+    border: 2px solid black;
+}
