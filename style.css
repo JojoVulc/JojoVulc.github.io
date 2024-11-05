@@ -11,7 +11,7 @@ div {
     min-width: auto;
     background-color: lightgray;
     width: auto;
-    margin: 15px auto;
+    margin: 0 auto;
     padding: 10px;
     text-align: center
 }
@@ -42,4 +42,10 @@ td {
 }
 .table{
     min-width: 400px;
+}
+p {
+    text-align: justify;
+}
+table {
+    margin: 0 auto;
 }
