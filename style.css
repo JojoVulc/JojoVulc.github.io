@@ -38,7 +38,9 @@ td:hover {
     background-color: blue;
 }
 td {
+    
     border: 2px solid black;
+
 }
 .table{
     min-width: 400px;
